@@ -12,9 +12,6 @@ Living Trust Governance Toolkit brings together trust surface mapping, operation
 Trust is experienced at the digital edge: domains, services, dependencies, and the signals those systems emit. Living Trust Governance Toolkit helps organisations identify where trust is formed, assess observable trust signals, and govern posture through ownership, lifecycle, and transparency rather than assurance language alone.
 
 The approach complements cybersecurity, risk, architecture, and vendor governance. It does not replace them. Trustworthiness is accumulated, not declared.
-
-![Trust network relationships across contributors and targets]([assets/trust-network.png](https://images.squarespace-cdn.com/content/v1/56a7eeb10ab377489fcf31ea/1615841815584-7A1ZT6H7GHLFVNLM6AXJ/TRUST-Network-Logo.png))
-
 ---
 
 ## Core Capabilities
