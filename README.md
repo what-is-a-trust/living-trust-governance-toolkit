@@ -13,7 +13,7 @@ Trust is experienced at the digital edge: domains, services, dependencies, and t
 
 The approach complements cybersecurity, risk, architecture, and vendor governance. It does not replace them. Trustworthiness is accumulated, not declared.
 
-![Trust network relationships across contributors and targets](assets/trust-network.png)
+![Trust network relationships across contributors and targets]([assets/trust-network.png](https://images.squarespace-cdn.com/content/v1/56a7eeb10ab377489fcf31ea/1615841815584-7A1ZT6H7GHLFVNLM6AXJ/TRUST-Network-Logo.png))
 
 ---
 
